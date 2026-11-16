@@ -1,2 +1,2 @@
-# stellaevrc-changelog
-stellaevrc-changelog
+# stellaevrc-changelog-and-news
+stellaevrc-changelog-and-news
